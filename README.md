@@ -1,6 +1,6 @@
 # CS5780 Mini Project
 
-Team Members: Niles McNabb
+Team Members: Niles McNabb, John Michaels
 
 # Project Goal
 High level description: Using the discovery board and approximately 7 buttons, we will produce
