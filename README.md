@@ -35,7 +35,7 @@ Allow Keil uvision 5 to install any missing packages
 
 Build and load program on to the device
 
-# Instruction 
+# Instructiond 
 
 Buttons connected to pin PB2 through PB6 will play different tones when activated
 
