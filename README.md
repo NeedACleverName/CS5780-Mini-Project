@@ -19,8 +19,11 @@ variety of music.
 This project uses the following hardware:
 
 STM32F072 Discovery kit
+
 8 push buttton switches
+
 HiLetgo PAM8403 Mini Digital Power Amplifier Board (https://www.amazon.com/dp/B00LODGV64)
+
 uxcell a15080600ux0275 Metal Shell Round Internal Magnet Speaker (https://www.amazon.com/dp/B0177ABRQ6)
 
 # Compliation 
